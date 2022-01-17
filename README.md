@@ -17,6 +17,7 @@ Repository allows you to replace 9 potential nlp pos-taggers (Legacy Models) wit
 
 
 
+
 **To run the cloned model, we have docker implementation**
 
 
@@ -57,6 +58,7 @@ Run the following script:
 To save the model, you can use following command:
 
 ```python3 delta/main.py --cmd export_model --config <your configuration file>.yml```
+
 
 
 
