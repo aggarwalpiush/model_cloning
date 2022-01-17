@@ -23,7 +23,7 @@ Repository allows you to replace 9 potential nlp pos-taggers (Legacy Models) wit
 Please pull docker image and create the container
 
 ```docker pull aggarwalpiush/model_cloning
-   docker run -it --name CONTAINERNAME -gpus all ggarwalpiush/model_cloning /bin/bash```
+   docker run -it --name CONTAINERNAME -gpus all aggarwalpiush/model_cloning /bin/bash```
 
 
 
